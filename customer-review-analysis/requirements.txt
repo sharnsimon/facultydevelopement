@@ -1,0 +1,5 @@
+Streamlit
+Selenium
+scikit-learn
+nltk
+pickle-mixin
